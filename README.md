@@ -4,3 +4,4 @@
 ####[第3次作业](https://github.com/hanshihao/quantum-mechanics2014301020016/blob/master/Exercise3.md)由于github上传出了点问题，这次作业迟交了些，望老师谅解####
 ####[第4次作业](https://github.com/hanshihao/quantum-mechanics2014301020016/blob/master/Exercise4.md)####
 ####[第5次作业](https://github.com/hanshihao/quantum-mechanics2014301020016/blob/master/Exercise5.md)####
+####[第6次作业](https://github.com/hanshihao/quantum-mechanics2014301020016/blob/master/Exercise6.md)####
