@@ -6,3 +6,4 @@
 ####[第5次作业](https://github.com/hanshihao/quantum-mechanics2014301020016/blob/master/Exercise5.md)####
 ####[第6次作业](https://github.com/hanshihao/quantum-mechanics2014301020016/blob/master/Exercise6.md)####
 ####[第7次作业](https://github.com/hanshihao/quantum-mechanics2014301020016/blob/master/Exercise7.md)####
+####[第8次作业](https://github.com/hanshihao/quantum-mechanics2014301020016/blob/master/Exercise8.md)####
